@@ -3,6 +3,9 @@ Some of the ffxi addons that I have made. Some are for both Windower and Ashita,
 
 Summary of the addons:  
   
+Focus:  
+Windower addon with a Party tab and an Engage tab. Party picks a main for other clients to assist. Engage (off by default) runs to the nearest enemy inside a yalm radius and attacks. See Focus/README.md.  
+  
 AllSeeingEye:  
 This was popularized long ago from the Windower 3.x plugin with the same name. Since the release of Windower v4, the Windower team has not provided an alternative, so I have. This one is simple to use. You load it, it's on. You unload it, it's off.  
   
