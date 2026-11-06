@@ -20,3 +20,6 @@ Scan Zone is an addon that will let you scan your current zone for any NPC, incl
   
 TakoPop:  
 This is an addon for Ashita that makes doing copious amounts of Voidwatch easier. It allows the user to buy more cells at a time from the NPCs, as well as initiate the voidwatch battle without the need to go through multiple menus. Supports displacers.  
+
+Autofight:  
+Windower addon that fights, heals, and supports from a clickable overlay. Roles are tank, damage dealer, healer, support, and mage. One character can be the main and the others follow and assist. It also lists enemies from a zone scan, with unique names first.  
